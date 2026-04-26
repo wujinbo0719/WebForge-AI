@@ -1,6 +1,10 @@
 # WebForge AI — 智能网站自动生成与部署软件
 
+[![Latest Release](https://img.shields.io/github/v/release/wujinbo0719/WebForge-AI?label=Download&color=brightgreen)](https://github.com/wujinbo0719/WebForge-AI/releases/latest)
+[![Total Downloads](https://img.shields.io/github/downloads/wujinbo0719/WebForge-AI/total?color=blue)](https://github.com/wujinbo0719/WebForge-AI/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/wujinbo0719/WebForge-AI?style=social)](https://github.com/wujinbo0719/WebForge-AI/stargazers)
+
 [![Electron](https://img.shields.io/badge/Electron-35-47848F?logo=electron&logoColor=white)](https://www.electronjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
