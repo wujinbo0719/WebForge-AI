@@ -1,0 +1,203 @@
+[
+  {
+    "id": "glassmorphism",
+    "name": "Glassmorphism",
+    "description": "玻璃拟态风格，半透明背景和模糊效果",
+    "category": "modern",
+    "cssVars": {
+      "background": "rgba(255,255,255,0.15)",
+      "backdropFilter": "blur(12px)",
+      "borderRadius": "16px",
+      "border": "1px solid rgba(255,255,255,0.2)"
+    }
+  },
+  {
+    "id": "minimalism",
+    "name": "Minimalism",
+    "description": "极简主义，大量留白和简洁排版",
+    "category": "classic",
+    "cssVars": {}
+  },
+  {
+    "id": "dark-mode",
+    "name": "Dark Mode",
+    "description": "深色模式，适合科技和游戏类",
+    "category": "modern",
+    "cssVars": {}
+  },
+  {
+    "id": "soft-ui",
+    "name": "Soft UI (Neumorphism)",
+    "description": "新拟态风格，柔和阴影和凹凸效果",
+    "category": "modern",
+    "cssVars": {}
+  },
+  {
+    "id": "bento-box",
+    "name": "Bento Box Grid",
+    "description": "便当盒网格布局，卡片化展示",
+    "category": "modern",
+    "cssVars": {}
+  },
+  {
+    "id": "claymorphism",
+    "name": "Claymorphism",
+    "description": "黏土拟态，3D柔和质感",
+    "category": "playful",
+    "cssVars": {}
+  },
+  {
+    "id": "liquid-glass",
+    "name": "Liquid Glass",
+    "description": "液态玻璃效果，高端奢华感",
+    "category": "luxury",
+    "cssVars": {}
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk UI",
+    "description": "赛博朋克风格，霓虹色彩和未来感",
+    "category": "bold",
+    "cssVars": {}
+  },
+  {
+    "id": "hero-centric",
+    "name": "Hero-Centric",
+    "description": "大图主视觉驱动，沉浸式首屏",
+    "category": "classic",
+    "cssVars": {}
+  },
+  {
+    "id": "brutalism",
+    "name": "Brutalism",
+    "description": "粗犷主义，大胆字体和原始布局",
+    "category": "bold",
+    "cssVars": {}
+  },
+  {
+    "id": "ai-native",
+    "name": "AI-Native UI",
+    "description": "AI原生界面风格，智能交互感",
+    "category": "modern",
+    "cssVars": {}
+  },
+  {
+    "id": "swiss-style",
+    "name": "Swiss Style",
+    "description": "瑞士国际风格，网格系统和无衬线字体",
+    "category": "classic",
+    "cssVars": {}
+  },
+  {
+    "id": "clean-minimal",
+    "name": "Clean Minimal",
+    "description": "干净极简，专业信任感",
+    "category": "classic",
+    "cssVars": {}
+  },
+  {
+    "id": "trust-authority",
+    "name": "Trust & Authority",
+    "description": "权威信任风格，适合金融医疗",
+    "category": "professional",
+    "cssVars": {}
+  },
+  {
+    "id": "feature-rich",
+    "name": "Feature-Rich",
+    "description": "功能丰富展示型，多区块信息密集",
+    "category": "professional",
+    "cssVars": {}
+  },
+  {
+    "id": "conversion-optimized",
+    "name": "Conversion-Optimized",
+    "description": "转化率优化型，突出CTA和社会证明",
+    "category": "professional",
+    "cssVars": {}
+  },
+  {
+    "id": "friendly-modern",
+    "name": "Friendly Modern",
+    "description": "友好现代风格，圆角和温暖色调",
+    "category": "playful",
+    "cssVars": {}
+  },
+  {
+    "id": "social-proof",
+    "name": "Social Proof",
+    "description": "社会证明驱动，评价和案例突出",
+    "category": "professional",
+    "cssVars": {}
+  },
+  {
+    "id": "elegant-serif",
+    "name": "Elegant Serif",
+    "description": "优雅衬线风格，高端品牌感",
+    "category": "luxury",
+    "cssVars": {}
+  },
+  {
+    "id": "storytelling",
+    "name": "Storytelling",
+    "description": "叙事型布局，滚动驱动的故事展现",
+    "category": "luxury",
+    "cssVars": {}
+  },
+  {
+    "id": "dark-mode-oled",
+    "name": "Dark Mode OLED",
+    "description": "纯黑OLED深色模式，高对比度",
+    "category": "modern",
+    "cssVars": {}
+  },
+  {
+    "id": "interactive-demo",
+    "name": "Interactive Demo",
+    "description": "互动演示型，产品体验驱动",
+    "category": "modern",
+    "cssVars": {}
+  },
+  {
+    "id": "minimal-direct",
+    "name": "Minimal & Direct",
+    "description": "极简直接，信息层级清晰",
+    "category": "classic",
+    "cssVars": {}
+  },
+  {
+    "id": "warm-organic",
+    "name": "Warm Organic",
+    "description": "温暖有机风格，自然纹理和暖色",
+    "category": "playful",
+    "cssVars": {}
+  },
+  {
+    "id": "minimal-gallery",
+    "name": "Minimal Gallery",
+    "description": "极简画廊风格，图片为主",
+    "category": "classic",
+    "cssVars": {}
+  },
+  {
+    "id": "full-bleed",
+    "name": "Full-Bleed",
+    "description": "全出血布局，无边距大图",
+    "category": "bold",
+    "cssVars": {}
+  },
+  {
+    "id": "feature-showcase",
+    "name": "Feature Showcase",
+    "description": "功能展示型，适合SaaS产品",
+    "category": "professional",
+    "cssVars": {}
+  },
+  {
+    "id": "clean-modern",
+    "name": "Clean Modern",
+    "description": "干净现代，通用商业风格",
+    "category": "classic",
+    "cssVars": {}
+  }
+]

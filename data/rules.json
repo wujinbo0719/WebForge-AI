@@ -1,0 +1,17 @@
+[
+  { "industry": "fintech", "styles": ["glassmorphism", "minimalism", "dark-mode", "trust-authority"], "palettes": ["tech-blue", "midnight-dark", "steel-gray"], "fonts": ["inter-system", "space-grotesk"] },
+  { "industry": "healthcare", "styles": ["soft-ui", "clean-minimal", "trust-authority"], "palettes": ["sage-green", "ocean-blue", "teal-fresh"], "fonts": ["inter-system", "raleway-nunito"] },
+  { "industry": "ecommerce", "styles": ["bento-box", "feature-rich", "conversion-optimized"], "palettes": ["coral-pink", "sunset-orange", "amber-gold"], "fonts": ["poppins-roboto", "montserrat-opensans"] },
+  { "industry": "education", "styles": ["claymorphism", "friendly-modern", "social-proof"], "palettes": ["ocean-blue", "lavender", "teal-fresh"], "fonts": ["raleway-nunito", "poppins-roboto"] },
+  { "industry": "luxury", "styles": ["liquid-glass", "elegant-serif", "storytelling"], "palettes": ["rose-gold", "midnight-dark", "wine-red"], "fonts": ["playfair-lato", "dm-serif-dm-sans"] },
+  { "industry": "gaming", "styles": ["cyberpunk", "dark-mode-oled", "interactive-demo"], "palettes": ["neon-cyber", "midnight-dark", "crimson-red"], "fonts": ["space-grotesk", "clash-general"] },
+  { "industry": "restaurant", "styles": ["hero-centric", "minimal-direct", "warm-organic"], "palettes": ["earthy-brown", "sunset-orange", "sage-green"], "fonts": ["dm-serif-dm-sans", "playfair-lato"] },
+  { "industry": "photography", "styles": ["brutalism", "minimal-gallery", "full-bleed"], "palettes": ["monochrome", "midnight-dark", "steel-gray"], "fonts": ["cabinet-satoshi", "clash-general"] },
+  { "industry": "saas", "styles": ["ai-native", "glassmorphism", "feature-showcase"], "palettes": ["tech-blue", "royal-purple", "sky-gradient"], "fonts": ["inter-system", "space-grotesk"] },
+  { "industry": "enterprise", "styles": ["swiss-style", "clean-modern", "trust-authority"], "palettes": ["ocean-blue", "steel-gray", "monochrome"], "fonts": ["inter-system", "montserrat-opensans", "noto-sans-sc"] },
+  { "industry": "pharma", "styles": ["clean-minimal", "trust-authority", "soft-ui"], "palettes": ["teal-fresh", "ocean-blue", "sage-green"], "fonts": ["inter-system", "source-han-sans"] },
+  { "industry": "beauty", "styles": ["elegant-serif", "soft-ui", "storytelling"], "palettes": ["rose-gold", "lavender", "coral-pink"], "fonts": ["playfair-lato", "raleway-nunito"] },
+  { "industry": "realestate", "styles": ["hero-centric", "clean-modern", "feature-rich"], "palettes": ["amber-gold", "earthy-brown", "ocean-blue"], "fonts": ["montserrat-opensans", "dm-serif-dm-sans"] },
+  { "industry": "travel", "styles": ["hero-centric", "storytelling", "full-bleed"], "palettes": ["sky-gradient", "teal-fresh", "sunset-orange"], "fonts": ["poppins-roboto", "raleway-nunito"] },
+  { "industry": "general", "styles": ["swiss-style", "minimalism", "clean-modern"], "palettes": ["monochrome", "ocean-blue", "steel-gray"], "fonts": ["inter-system", "noto-sans-sc"] }
+]

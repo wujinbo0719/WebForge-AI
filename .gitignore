@@ -1,0 +1,74 @@
+## 依赖
+node_modules
+.npm
+.pnpm-store
+
+## 构建产物
+dist
+out
+build/Release
+*.tsbuildinfo
+
+## 缓存
+.eslintcache
+.cache
+.turbo
+
+## 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+## 日志
+*.log
+*.log.*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+## 编辑器/IDE 私有配置
+.idea
+.vs
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+*.sublime-workspace
+*.sublime-project
+.cursor/
+.cursorignore
+.cursorindexingignore
+
+## 环境变量与密钥（核心，绝不上传）
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+secrets/
+
+## 本地数据库与运行时数据
+*.sqlite
+*.sqlite-journal
+*.db
+*.db-journal
+data/projects/
+data/templates/cache/
+data/uploads/
+
+## 应用打包临时
+*.exe
+*.dmg
+*.AppImage
+*.snap
+*.deb
+release/
+
+## 临时文件
+新建文本文档.txt
+*.tmp
+.tmp/

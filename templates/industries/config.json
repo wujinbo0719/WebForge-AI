@@ -1,0 +1,183 @@
+{
+  "enterprise": {
+    "name": "企业官网",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "cta"],
+      "about": ["about", "team", "cta"],
+      "services": ["services", "features", "cta"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "split",
+    "tone": "professional"
+  },
+  "ecommerce": {
+    "name": "电商零售",
+    "defaultPages": ["home", "services", "cases", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "gallery", "testimonials", "cta"],
+      "services": ["services", "pricing", "cta"],
+      "cases": ["gallery", "testimonials"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-width",
+    "tone": "persuasive"
+  },
+  "education": {
+    "name": "教育培训",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "faq", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "pricing", "cta"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "centered",
+    "tone": "friendly"
+  },
+  "healthcare": {
+    "name": "医疗健康",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "faq", "cta"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "split",
+    "tone": "trustworthy"
+  },
+  "fintech": {
+    "name": "金融科技",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "pricing", "faq", "cta"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "gradient",
+    "tone": "professional"
+  },
+  "pharma": {
+    "name": "医药",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "faq"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "split",
+    "tone": "trustworthy"
+  },
+  "restaurant": {
+    "name": "餐饮",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "gallery", "features", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "gallery"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-image",
+    "tone": "warm"
+  },
+  "luxury": {
+    "name": "奢侈品",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "gallery", "features", "testimonials", "cta"],
+      "about": ["about"],
+      "services": ["services", "gallery"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-image",
+    "tone": "elegant"
+  },
+  "photography": {
+    "name": "摄影",
+    "defaultPages": ["home", "about", "cases", "contact"],
+    "defaultSections": {
+      "home": ["hero", "gallery", "testimonials", "cta"],
+      "about": ["about"],
+      "cases": ["gallery"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-image",
+    "tone": "artistic"
+  },
+  "gaming": {
+    "name": "游戏",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "gallery", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "features"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-width",
+    "tone": "energetic"
+  },
+  "beauty": {
+    "name": "美容SPA",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "services", "gallery", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "pricing"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "split",
+    "tone": "elegant"
+  },
+  "realestate": {
+    "name": "房地产",
+    "defaultPages": ["home", "about", "cases", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "gallery", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "cases": ["gallery", "features"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-image",
+    "tone": "professional"
+  },
+  "travel": {
+    "name": "旅游酒店",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "gallery", "features", "testimonials", "cta"],
+      "about": ["about"],
+      "services": ["services", "pricing", "faq"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "full-image",
+    "tone": "inspiring"
+  },
+  "saas": {
+    "name": "科技SaaS",
+    "defaultPages": ["home", "about", "services", "pricing", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "features"],
+      "pricing": ["pricing", "faq", "cta"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "gradient",
+    "tone": "innovative"
+  },
+  "general": {
+    "name": "综合",
+    "defaultPages": ["home", "about", "services", "contact"],
+    "defaultSections": {
+      "home": ["hero", "features", "testimonials", "cta"],
+      "about": ["about", "team"],
+      "services": ["services", "cta"],
+      "contact": ["contact"]
+    },
+    "heroStyle": "centered",
+    "tone": "professional"
+  }
+}

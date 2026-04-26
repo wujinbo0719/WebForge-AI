@@ -1,0 +1,28 @@
+## 默认所有文本文件用 LF 换行
+* text=auto eol=lf
+
+## Windows 专用 / 二进制文件不要被改换行符
+*.bat   text eol=crlf
+*.cmd   text eol=crlf
+*.ps1   text eol=crlf
+
+*.exe   binary
+*.dll   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.ico   binary
+*.icns  binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.zip   binary
+*.7z    binary
+*.dmg   binary
+*.AppImage binary
+
+## Linguist 让 GitHub 正确识别语言占比
+data/*.json linguist-generated=true
+templates/** linguist-vendored=true
